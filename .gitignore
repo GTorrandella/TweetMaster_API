@@ -100,5 +100,9 @@ venv.bak/
 # mkdocs documentation
 /site
 
+# Eclipse projects
+.project
+.pydevproject
+
 # mypy
 .mypy_cache/
